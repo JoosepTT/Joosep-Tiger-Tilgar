@@ -3,7 +3,7 @@
   Although these projects don't have much documentation yet, they give some insight into the topics I've tackled on my ongoing journey.</em>
   <br><br>
   
-  <strong>Software developer</strong> • Full-stack enthusiast • currently studying Computer Science @ University of Tartu
+  <strong>Software developer</strong> • Full-stack enthusiast • Web3 and 3D modelling enjoyer • currently studying Computer Science @ University of Tartu
 </p>
 
 

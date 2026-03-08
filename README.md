@@ -124,6 +124,6 @@
 
 <p align="center">
   <a href="mailto:jooseptiger@ut.ee">✉️ jooseptiger@ut.ee</a> •
-  <a href="#">LinkedIn (currently not active)</a> •
+  <a href="#">LinkedIn (currently not active)</a>
 </p>
 

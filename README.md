@@ -34,7 +34,7 @@
           <img src="https://opengraph.githubassets.com/1/tonislees/kettagolf" width="200" alt="Kettagolf"/>
           <br><br>
           <b>Website design – Kettagolf</b><br>
-          <small>HTML • CSS • (JS?)</small>
+          <small>HTML • CSS • JS</small>
         </a>
       </td>
       <td align="center" width="300">

@@ -78,7 +78,7 @@
       <td align="center"width="350">
         <h3 align="center">Filetree searcher</h3>
         <div>
-          <a href="https://github.com/JoosepTT/WAD-team_backend.git">Repo →<a>
+          <a href="https://github.com/JoosepTT/Java-logic.git">Repo →<a>
         </div>
         <br>
         <p>• Java</p>
@@ -88,12 +88,12 @@
       <td align="center"width="350">
         <h3 align="center">BF compiler in C</h3>
         <div>
-          <a href="https://github.com/JoosepTT/WAD-team_backend.git">Repo →</a>
+          <a href="https://github.com/JoosepTT/BF-ASM-project.git">Repo →</a>
         </div>
         <br>
         <p>BF • C • ASM</p>
         <br>
-        <p>BF simple compiler with dynamic memory</b>
+        <p>Simple BF compiler in NASM with dynamic memory tape.</b>
       </td>
     </tr>
   </table>
@@ -123,12 +123,12 @@
         <br>
         <p>Java • OOP</p>
         <br>
-        <p align="left">This is my first project in Java hence its simplicity. Altough having simple interface, it contains some interesting dice mechanics but also some unintuitively executed classes ;)</b>
+        <p align="left">This is my first project in Java, hence its simplicity. Altough having simple interface, it contains some interesting dice mechanics but also some unintuitively executed classes ;)</b>
       </td>
       <td align="center" width="350"">
         <h3 align="center">Different game engine projects</h3>
         <div>
-         <a href="https://github.com/JoosepTT/OOP_projekt.git">Repo →</a>
+         <a href="https://github.com/JoosepTT/GameDev.git">Repo →</a>
         </div>
         <br>
         <p>Unity • Godot • Unreal</p>
@@ -153,15 +153,12 @@
         <br>
         <p>Pandas • Scikit-learn • data visulization</p>
         <br>
-        <p>This is my first data science project with main focus on data mining and testing out different machine learning tactics.</p>
+        <p>This is my first data science project with main focus on data mining and testing out different machine learning tactics. The first one who came to this idea, was Martin Maikov, who I made this project with, but we both took sliglthy different approaches. My Jupyter Notebooks can be found in joosep-dev branch.</p>
       </td>
       <td align="center" width="350">
         <h3 align="center">Food waste management DB design</h3>
         <div>
-          <a href="https://github.com/MMaikov/CarsDataset.git">Repo →</a>
-        </div>
-        <div>
-          <a href="https://github.com/MMaikov/CarsDataset.git">Documentation →</a>
+          <a href="https://github.com/JoosepTT/Food-waste-management-database.git">Repo →</a>
         </div>
         <br>
         <p>PostgreSQL • ER-diagram • User views</p>

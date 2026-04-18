@@ -39,7 +39,7 @@
           <br>
         <p>HTML • CSS • JS</p>
         <br></br>
-        <p align="left">This is my first bigger programming project which I helped Sander Sarapuu to bring to life. At the time I didn't know how to use git, hence sparse commit hisotry on my end. The main focus of the project was to implement an easy way to convert imperial system measurement units in US recipes automatically into SI (metric system). In addition to doing conversions and composing recepies, the program lets users visualize the recepies total macro nutriens.
+        <p align="left">This is my first frontend team project with flexbox framework, in which we each contibuted to make a proffessional and informative introductory page about discgolf as a sport. My page is the home page, in which I implemented multiple visually appealing interactive javascript animations.
         </p>
       </td>
       <td align="center" width="350">

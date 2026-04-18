@@ -39,7 +39,7 @@
           <br>
         <p>HTML • CSS • JS</p>
         <br></br>
-        <p align="left">This is my first frontend team project with flexbox framework, in which we each contibuted to make a proffessional and informative introductory page about discgolf as a sport. My page is the home page, in which I implemented multiple visually appealing interactive javascript animations.
+        <p align="left">This is my first frontend team project with flexbox framework, in which we each contibuted to make a proffessional and informative introductory page about discgolf as a sport. My page is the home page, in which I implemented multiple visually appealing interactive javascript animations. The main goal of this project was to focus on HCI aspect of visual design language and research ways to make the end product as appealing, interactive and clean as possible.
         </p>
       </td>
       <td align="center" width="350">
